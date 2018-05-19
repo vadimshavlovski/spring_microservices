@@ -2,7 +2,7 @@
 Spring Cloud microservices example
 
 ### Ports:
-- Eurika (Service Discovery): 8761
+- Eureka (Service Discovery): 8761
 - Cardservice:8081
 - Cardholder: 8082
 - Zuul: TODO
@@ -11,7 +11,7 @@ Spring Cloud microservices example
 ### Technologies
 - Java 8
 - Spring Boot
-- Spring Cloud Netflix (Eurika, Zuul, Hystrix)
+- Spring Cloud Netflix (Eureka, Zuul, Hystrix)
 
 
 
