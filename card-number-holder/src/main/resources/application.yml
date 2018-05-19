@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: cardholder
+  output:
+    ansi:
+      enabled: always
+
+server:
+  port: 8082
+
+eureka:
+  client:
+    initial-instance-info-replication-interval-seconds: 2
