@@ -7,6 +7,7 @@ Spring Cloud microservices example
 - Cardholder: 8082
 - Zuul: TODO
 - Hystrix: TODO
+- Config Server: TODO
 
 ### Technologies
 - Java 8
