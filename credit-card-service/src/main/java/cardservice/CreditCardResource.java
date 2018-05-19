@@ -6,14 +6,11 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.client.RestTemplate;
 
-import java.util.HashMap;
-import java.util.Map;
-
 @RestController
 public class CreditCardResource {
 
     @Autowired
-    RestTemplate restTemplate;
+    private RestTemplate restTemplate;
 
     @GetMapping("/add/{cardNumber}")
     public Integer addCardNumber(@PathVariable String cardNumber) {
@@ -25,6 +22,7 @@ public class CreditCardResource {
 
         Integer token = restTemplate.getForObject("http://CARDHOLDER/add/" + cardNumber, Integer.class);
         System.out.println("Received token " + token);
+
         return token;
     }
 
