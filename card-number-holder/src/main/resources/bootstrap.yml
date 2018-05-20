@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: cardholder
+  output:
+    ansi:
+      enabled: always
