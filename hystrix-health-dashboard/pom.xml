@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.example</groupId>
-	<artifactId>hystrix</artifactId>
+	<artifactId>hystrix-health-dashboard</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>hystrix</name>
+	<name>hystrix-health-dashboard</name>
 	<description>Hystrix Health Dashboard</description>
 
 	<parent>

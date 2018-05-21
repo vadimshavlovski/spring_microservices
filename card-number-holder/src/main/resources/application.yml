@@ -4,3 +4,14 @@ server:
 eureka:
   client:
     initial-instance-info-replication-interval-seconds: 2
+
+management:
+  endpoints:
+    web:
+      expose: true
+    configprops:
+      enabled: true
+
+endpoints:
+  configprops:
+    enabled: true
