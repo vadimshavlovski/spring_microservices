@@ -1,0 +1,13 @@
+info:
+  component: Health Dashboard
+  
+endpoints:
+  restart:
+    enabled: true
+  shutdown:
+    enabled: true
+  health:
+    sensitive: false
+
+server:
+  port: 7979

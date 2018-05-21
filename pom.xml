@@ -12,6 +12,7 @@
         <module>card-number-holder</module>
         <module>credit-card-service</module>
         <module>eureka</module>
+        <module>hystrix</module>
     </modules>
     <packaging>pom</packaging>
 
