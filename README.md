@@ -6,7 +6,7 @@ Spring Cloud microservices example
 - Cardservice:8081
 - Cardholder: 8082
 - Zuul: TODO
-- Hystrix: TODO
+- Hystrix Dashbord: 7979 (for localhost:8081/hystrix.stream)
 - Config Server: TODO
 
 ### Technologies
