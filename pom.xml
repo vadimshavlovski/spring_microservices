@@ -13,6 +13,7 @@
         <module>credit-card-service</module>
         <module>eureka</module>
         <module>hystrix-health-dashboard</module>
+        <module>zuul-api-gateway</module>
     </modules>
     <packaging>pom</packaging>
 
