@@ -1,0 +1,17 @@
+server:
+  port: 8888
+
+zuul:
+  prefix: /api
+  routes:
+    card-service:
+      path: /cardservice/**
+      serviceId: CARDSERVICE
+#      sensitive-headers: Set-Cookie,Authorization
+#    eureka:
+#      path: /eureka/**
+#      serviceId: EUREKA
+#    hystrix:
+#      path: /healthdashboard/**
+#      serviceId: HEALTHDASHBOARD
+

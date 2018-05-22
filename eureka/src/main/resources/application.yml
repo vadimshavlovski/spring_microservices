@@ -2,10 +2,10 @@ server:
   port: 8761
 
 eureka:
-  client:
-    register-with-eureka: false
   server:
     renewal-threshold-update-interval-ms: 1000
   instance:
     lease-expiration-duration-in-seconds: 2
     lease-renewal-interval-in-seconds: 1
+#  client:
+#    register-with-eureka: false
