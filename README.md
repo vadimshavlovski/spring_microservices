@@ -8,9 +8,9 @@ Spring Cloud microservices example
 |zuul-api-gateway        | 8050 | API Gateway             |/api/card-service/add/{cardNumber}|
 |credit-card-service     | 8081 |     -                   |/add{cardNumber}                  |
 |card-number-holder      | 8082 |     -                   |/add{cardNumber}                  |
-|config-server           | 8040 | Config Management       |refer to config-repo              |
-|eureka-service-discovery| 8761 | Service Discovery     |/                                 |
-|hystrix-health-dashboard| 7979 | Fault Tolerance       |/hystrix.stream                   |
+|config-server           | 8040 | Configuration Management|refer to config-repo              |
+|eureka-service-discovery| 8761 | Service Discovery       |/                                 |
+|hystrix-health-dashboard| 7979 | Fault Tolerance         |/hystrix.stream                   |
 |                        |      |                         |                                  |
 
 ### Technologies
