@@ -10,8 +10,9 @@
 
     <modules>
         <module>card-number-holder</module>
+        <module>config-server</module>
         <module>credit-card-service</module>
-        <module>eureka</module>
+        <module>eureka-service-discovery</module>
         <module>hystrix-health-dashboard</module>
         <module>zuul-api-gateway</module>
     </modules>

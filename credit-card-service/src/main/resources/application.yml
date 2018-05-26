@@ -1,6 +1,8 @@
 server:
   port: 8081
 
+profile: dev
+
 eureka:
   client:
     initial-instance-info-replication-interval-seconds: 2
