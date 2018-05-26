@@ -10,9 +10,9 @@ Spring Cloud microservices example
 - Hystrix Dashbord: port: 7979 (hystrix stream: localhost:8081/hystrix.stream)
 - Config Server: TODO (support for externalized configuration)
 
-| Microservice                             | Port | Microservices Pattern  | Test URL        |
+| Microservice        | Port | Microservices Pattern  | Test URL        |
 | ---------------------------------------- | ---- | ---------------------- | --------------- |
-| zuul-api-gateway                         | 8050 | API Gateway            |                 |
+| zuul-api-gateway    | 8050 | API Gateway            | localhost:8888/api/card-service/add/{cardNumber}|
 |                                          |      |                        |                 |
 
 ### Technologies
