@@ -11,8 +11,8 @@ import org.springframework.web.bind.annotation.RestController;
 @RefreshScope
 public class CreditCardResource {
 
-    @Value("${profile}")
-    private String profile;
+    @Value("${externalField}")
+    private String externalField;
 
     @Autowired
     private CreditCardService creditCardService;
@@ -22,11 +22,9 @@ public class CreditCardResource {
         return creditCardService.addCardNumber(cardNumber);
     }
 
-    @GetMapping("/hello")
-    public String hello() {
-        return this.profile;
+    @GetMapping("/config-server-test")
+    public String checkConfigServerInject() {
+        return this.externalField;
     }
-
-
 
 }

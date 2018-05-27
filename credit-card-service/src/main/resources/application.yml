@@ -1,7 +1,9 @@
 server:
   port: 8081
 
-profile: dev
+management:
+  security:
+    enabled: false
 
 eureka:
   client:

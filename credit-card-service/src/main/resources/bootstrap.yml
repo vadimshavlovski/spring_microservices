@@ -4,3 +4,10 @@ spring:
   output:
     ansi:
       enabled: always
+  cloud:
+    config:
+      profile: dev        #profile, config server {profile}
+      label: master       #git, config server {label}
+      discovery:
+        enabled: true
+        serviceId: config-server
