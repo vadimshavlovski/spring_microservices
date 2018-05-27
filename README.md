@@ -17,6 +17,7 @@ Spring Cloud microservices example
 - Java 8
 - Spring Boot
 - Spring Cloud Netflix (Eureka, Zuul, Hystrix)
+- Spring Cloud Config Server
 
 
 
