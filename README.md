@@ -1,5 +1,5 @@
 ### Spring Microservices
-Spring Cloud microservices example :fire: :fire: :fire:
+Spring Cloud microservices example
 
 ### Microservices
 
