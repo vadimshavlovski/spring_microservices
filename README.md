@@ -1,6 +1,12 @@
 ### Spring Microservices
 Spring Cloud microservices example
 
+### Technologies
+- Java 8
+- Spring Boot
+- Spring Cloud Netflix (Eureka, Zuul, Hystrix)
+- Spring Cloud Config Server
+
 ### Microservices
 
 | Microservice           | Port | Pattern                 |Test URL                          |
@@ -13,12 +19,15 @@ Spring Cloud microservices example
 |hystrix-health-dashboard| 7979 | Fault Tolerance         |/hystrix.stream                   |
 |                        |      |                         |                                  |
 
-### Technologies
-- Java 8
-- Spring Boot
-- Spring Cloud Netflix (Eureka, Zuul, Hystrix)
-- Spring Cloud Config Server
+### API Gateway (Zuul)
+Todo
 
+### Config Server 
+Todo
 
+### Service Discovery (Eureka)
+Todo
 
+### Fault Tolerance (Hystrix + Health Dashboard)
+Todo
 
