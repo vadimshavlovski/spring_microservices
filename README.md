@@ -1,5 +1,5 @@
 ### Spring Microservices
-Spring Cloud microservices example
+Spring Cloud microservices example :boom: :boom: :boom:
 
 ### Technologies
 - Java 8
@@ -20,7 +20,8 @@ Spring Cloud microservices example
 |                        |      |                         |                                  |
 
 ### API Gateway (Zuul)
-Todo
+
+   ![api_gateway_zuul](https://github.com/vadimshavlovski/spring_microservices/blob/master/config-repo/api-gateway-zuul.png)
 
 ### Config Server 
 Todo
