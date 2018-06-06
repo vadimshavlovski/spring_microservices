@@ -20,8 +20,8 @@ Spring Cloud microservices example :boom: :boom: :boom:
 |                        |      |                         |                                  |
 
 ### API Gateway (Zuul)
-
-   ![api_gateway_zuul](https://github.com/vadimshavlovski/spring_microservices/blob/master/config-repo/api-gateway-zuul.png)
+   
+   <img src="https://github.com/vadimshavlovski/spring_microservices/blob/master/config-repo/api-gateway.png" width="600">
 
 ### Config Server 
 Todo
