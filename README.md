@@ -21,13 +21,14 @@ Spring Cloud microservices example :boom: :boom: :boom:
 
 ### API Gateway (Zuul)
    
-   <img src="https://github.com/vadimshavlovski/spring_microservices/blob/master/config-repo/api-gateway.png" width="600">
+   <img src="https://github.com/vadimshavlovski/spring_microservices/blob/master/config-repo/api-gateway.png" width="500">
 
 ### Config Server 
 Todo
 
 ### Service Discovery (Eureka)
-Todo
+   <img src="https://github.com/vadimshavlovski/spring_microservices/blob/master/config-repo/eureka.jpg" width="500">
+
 
 ### Fault Tolerance (Hystrix + Health Dashboard)
 Todo
