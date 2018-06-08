@@ -24,7 +24,7 @@ Spring Cloud microservices example :boom: :boom: :boom:
    <img src="https://github.com/vadimshavlovski/spring_microservices/blob/master/config-repo/api-gateway.png" width="500">
 
 ### Config Server 
-Todo
+   <img src="https://github.com/vadimshavlovski/spring_microservices/blob/master/config-repo/config-server.jpg" width="500">
 
 ### Service Discovery (Eureka)
    <img src="https://github.com/vadimshavlovski/spring_microservices/blob/master/config-repo/eureka.jpg" width="500">
