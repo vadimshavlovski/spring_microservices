@@ -31,5 +31,6 @@ Spring Cloud microservices example :boom: :boom: :boom:
 
 
 ### Fault Tolerance (Hystrix + Health Dashboard)
+The Hystrix Fault Tolerance provides the fallback method that is showed if the server is not reachable
 Todo
 
