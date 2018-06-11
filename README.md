@@ -20,17 +20,26 @@ Spring Cloud microservices example :boom: :boom: :boom:
 |                        |      |                         |                                  |
 
 ### API Gateway (Zuul)
+
+   Todo description
    
    <img src="https://github.com/vadimshavlovski/spring_microservices/blob/master/config-repo/api-gateway.png" width="500">
 
 ### Config Server 
+
+   Todo description
+   
    <img src="https://github.com/vadimshavlovski/spring_microservices/blob/master/config-repo/config-server.jpg" width="500">
 
 ### Service Discovery (Eureka)
+
+   Todo description
+   
    <img src="https://github.com/vadimshavlovski/spring_microservices/blob/master/config-repo/eureka.jpg" width="500">
 
 
 ### Fault Tolerance (Hystrix + Health Dashboard)
-The Hystrix Fault Tolerance provides the fallback method that is showed if the server is not reachable
-Todo
+   The Hystrix Fault Tolerance provides the fallback method that is showed if the server is not reachable
+      
+   Todo details
 
